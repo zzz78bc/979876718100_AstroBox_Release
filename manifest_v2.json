@@ -1,0 +1,31 @@
+{
+  "item": {
+    "id": "979876718100",
+    "restype": "watchface",
+    "name": "阿洛娜",
+    "description": "一个简单的表盘，可以去米坛查看我的其他资源",
+    "preview": [
+      "？.png"
+    ],
+    "icon": "圆形 1.png",
+    "cover": "？.png",
+    "author": [
+      {
+        "name": "zzz78",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "阿洛娜-动态ui版-zzz78.bin"
+    },
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "阿洛娜-动态ui版-zzz78.bin"
+    }
+  },
+  "ext": {}
+}
