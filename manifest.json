@@ -1,0 +1,29 @@
+{
+  "item": {
+    "id": "979876718100",
+    "name": "阿洛娜",
+    "description": "一个简单的表盘，可以去米坛查看我的其他资源",
+    "preview": [
+      "？.png"
+    ],
+    "icon": "圆形 1.png",
+    "cover": "？.png",
+    "source_url": "https://github.com/zzz78bc/979876718100_AstroBox_Release",
+    "author": [
+      {
+        "name": "zzz78",
+        "author_url": "https://github.com/zzz78bc"
+      }
+    ]
+  },
+  "downloads": {
+    "p65": {
+      "version": "1.0.0",
+      "file_name": "阿洛娜-动态ui版-zzz78.bin"
+    },
+    "o65": {
+      "version": "1.0.0",
+      "file_name": "阿洛娜-动态ui版-zzz78.bin"
+    }
+  }
+}
